@@ -1,0 +1,31 @@
+{
+  "name": "game-exercise",
+  "version": "1.0.0",
+  "description": "Managemente game simulation",
+  "main": "pages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "next"
+  ],
+  "author": "Giovanni Londero",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.0",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
