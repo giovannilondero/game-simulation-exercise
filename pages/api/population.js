@@ -1,3 +1,5 @@
+import { random } from '../../helpers';
+
 export default (req, res) => {
-  res.json({ quantity: Math.floor(Math.random() * 100) + 100 });
+  res.json({ quantity: random(100, 100) });
 };
