@@ -2,7 +2,7 @@
 
 Simple simulation of a management game.
 
-Single alert:
+Single alerts:
 - food < 30% of population
 - water < 20% of population
 - stone < 5% of population
@@ -12,7 +12,7 @@ General alerts:
  - if food and water are less than 20% of population, show famine alert;
  - if stone and gold are less than 10% of population, show economic crisis alert;
 
-## Develompent
+## Development
 
 Run commands:
 - `$ npm i`
@@ -27,5 +27,5 @@ Run commands:
 - [ ] typescript
 - [ ] SSR
 - [ ] i18n
-- [ ] accessibilità
+- [ ] accessibility
 
